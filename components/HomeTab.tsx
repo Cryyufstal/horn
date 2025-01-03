@@ -8,7 +8,7 @@ import Star from '@/icons/Star'
 import Image from 'next/image'
 import ArrowRight from '@/icons/ArrowRight'
 import { sparkles } from '@/images'
-import { WebApp } from '@twa-dev/sdk'
+import WebApp from "@twa-dev/sdk'
 
 declare global {
   interface Window {
